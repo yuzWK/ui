@@ -155,10 +155,10 @@ local library = {
 	windows = {},
     pointers = {},
     settings = {
-        guiname = "Bitch.lol",
-		title = "Bitch.lol",
+        guiname = "Bitch.lua",
+		title = "Bitch.lua",
 		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = " Bitch.lol Winning $$$",
+        footer = " Bitch.lua Winning $$$",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
