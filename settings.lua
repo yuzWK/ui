@@ -157,11 +157,11 @@ local library = {
     settings = {
         guiname = "Bitch.lua",
 		title = "Bitch.lua",
-		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
+		logo = "http://www.roblox.com/asset/?id=6970480466", -- "http://www.roblox.com/asset/?id=6597976562",
         footer = " Bitch.lua Winning $$$",
         modal = true,
-        font = Enum.Font.SourceSans,
-        textsize = 16,
+        font = Enum.Font.GothamBlack,
+        textsize = 18,
         textstroke = true
     },
     theme = {
