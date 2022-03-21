@@ -161,7 +161,7 @@ local library = {
         footer = " Bitch.lua Winning $$$",
         modal = true,
         font = Enum.Font.GothamBlack,
-        textsize = 18,
+        textsize = 16,
         textstroke = true
     },
     theme = {
